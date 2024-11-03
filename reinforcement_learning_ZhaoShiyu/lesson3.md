@@ -1,4 +1,4 @@
-# Optimal Policy and Bellman OPtimality Equation
+# lecture3 Optimal Policy and Bellman OPtimality Equation
 [toc]
 ## Optimal policy
 ![optimal policy definition](image-21.png)
