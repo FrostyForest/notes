@@ -29,5 +29,10 @@
 ![SGD is RM](image-109.png)
 ![SGD is RM](image-110.png)
 ![PROOF](image-111.png)
+### Convergence pattern
+![convergence pattern](image-112.png)
 ## BGD,MBGD,and SGD
-
+![BGD,MBGD,SGD](image-113.png)
+![EXAMPLE](image-114.png)
+![convergence speed](image-115.png)
+![优化算法](image-116.png)
