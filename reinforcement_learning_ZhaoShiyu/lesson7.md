@@ -56,3 +56,4 @@ It sovles the bellman equation of a given policy $\pi$
 ## unified view
 ![different TD algorithms](image-151.png)
 ![equations](image-152.png)
+
