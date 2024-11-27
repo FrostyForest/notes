@@ -1,5 +1,10 @@
 2024_11_26:
-    ☐ 测试rwkv
+    ☐ 测试rwkv @started(24-11-26 13:21)
     ☐ 学习机器人学导论 @est(1h)
     ☐ 尝试复现hilserl
-    ☐ 刷leetcode @est(1h)
+    ✔ 刷leetcode @est(1h) @started(24-11-26 11:58) @done(24-11-26 12:28) @lasted(30m5s)
+
+2024_11_27:
+    ✔ 测试rwkv @started(24-11-27 13:02) @done(24-11-28 02:03) @lasted(13h1m1s)
+        rwkv究竟是怎么处理短上文的？
+
